@@ -1,0 +1,224 @@
+body {
+    background-color: #F5F5DC;
+    margin: 0px 0px;
+    overflow-x: hidden; 
+}
+
+.home {
+    position: fixed; /* Keeps the icon in the same position even when scrolling */
+    bottom: 20px; /* Distance from the bottom of the page */
+    left: 20px; /* Distance from the left side of the page */
+    width: 50px; /* Size of the icon (adjust as needed) */
+    height: 50px;
+    z-index: 1000; /* Ensures the icon is above other content */
+}
+
+.home img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Makes sure the icon scales correctly */
+}
+
+h1 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    padding-top:0px;
+    font-family: helvetica, serif;
+    font-weight: 700;
+    margin-bottom:5px;
+}
+
+p {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    text-align:center;
+    padding-left: 160px;
+    padding-right:160px;
+    margin-top: 0px;
+    font-family: helvetica, serif;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.column {
+    width: 30%;
+    padding: 5px;
+}
+
+.imgcontainer {
+    position: relative;
+    width: 100%;
+}
+
+.default-image, .hover-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.default-image {
+    opacity: 1;
+}
+
+.hover-image {
+    opacity: 0;
+}
+
+.imgcontainer:hover .default-image {
+    opacity: 0;
+}
+
+.imgcontainer:hover .hover-image {
+    opacity: 1;
+}
+
+.description {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    padding-left: 160px;
+    padding-right:160px;
+    margin-top: 0px;
+}
+
+table {
+    font-family: helvetica, serif;
+    border-collapse: collapse;
+    width: auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+h2 {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    padding-top:0px;
+    font-family: helvetica, serif;
+    font-weight: 700;
+    margin-bottom:5px;   
+    
+}
+
+#childhoodmemories {
+    width: 60%; /* This limits the table's width */
+    margin: 20px auto; /* Centers the table properly */
+    border-collapse: collapse;
+    font-family: helvetica, serif;
+}
+
+#childhoodmemories th, #childhoodmemories td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+
+#topfive {
+    font-size: 14px; 
+    line-height: 1.4;
+    padding-left: 20px;
+    margin-bottom: 10px; 
+    width:60%;
+    font-family: helvetica, serif;
+    margin: 20px auto; 
+  }
+  #topfive li {
+    margin-bottom: 8px; 
+  }
+  #topfive strong {
+    font-weight: 600; 
+  }
+
+
+#food {
+    font-size: 14px; 
+    line-height: 1.4;
+    padding-left: 20px;
+    margin-bottom: 10px; 
+    width:60%;
+    font-family: helvetica, serif;
+    margin: 20px auto; 
+  }
+  #food li {
+    margin-bottom: 8px; 
+  }
+  #food strong {
+    font-weight: 600; 
+  }
+
+/* Set up the container */
+.scrolling-container {
+    width: 100vw; /* 100% of the viewport width */
+    overflow: hidden; /* Hide any overflow outside the container */
+    white-space: nowrap; /* Prevent line breaks */
+    position: relative;
+}
+
+/* Scrolling image container */
+.scrolling-image {
+    display: inline-block;
+    animation: scroll 300s linear infinite; /* Apply the scrolling animation */
+}
+
+/* Ensure the image fits properly */
+.scrolling-image img {
+    width: 5760px; /* Set the image width */
+}
+
+/* Keyframe animation to scroll the image horizontally */
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-5760px); /* Move the image to the left by its full width */
+    }
+}
+
+
+.grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 20px;
+        }
+.grid-item {
+        padding: 20px;
+        border-radius: 8px;
+        }
+
+.full-width {
+    grid-column: span 2;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-family: helvetica, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #F5F5DC;
+    margin-top: 20px;
+}
+

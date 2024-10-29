@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 5760 360">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 11px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+    <image id="image-3" width="4032" height="3024" xlink:href="window2-2.png"/>
+    <image id="image-4" width="4032" height="3024" xlink:href="../../../Downloads/IMG_4154.JPG"/>
+  </defs>
+  <image width="4032" height="3024" transform="translate(5524 -272.5) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_9850.JPG"/>
+  <g>
+    <path class="cls-2" d="M3185.9-4821.3v-.6h-46.8v.6l-12.8-3.2v61.4l12.8-4.1v1h46.9v-1l12.8,4.1v-61.4l-12.9,3.2ZM3132.8-4767l-4.7,1.5v-15l4.7-.6v14.1ZM3132.8-4783l-4.7.6v-22.7l4.7.6v21.5ZM3132.8-4806.3l-4.7-.6v-15.2l4.7,1.2v14.6ZM3138.9-4769l-4.2,1.3v-13.7l4.2-.6v13h0ZM3138.9-4783.8l-4.2.6v-21l4.2.6v19.8ZM3138.9-4805.5l-4.2-.6v-14.4l4.2,1.1v13.9ZM3183.4-4768.6h-41.8v-50.7h41.8v50.7ZM3190.4-4767.6l-4.2-1.3v-13l4.2.6v13.7h0ZM3190.4-4783.3l-4.2-.6v-19.7l4.2-.6v20.9h0ZM3190.4-4806.1l-4.2.6v-13.9l4.2-1.1v14.4ZM3196.9-4765.6l-4.7-1.5v-14.1l4.7.6v15ZM3196.9-4782.4l-4.7-.6v-21.5l4.7-.6v22.7ZM3196.9-4806.9l-4.7.6v-14.6l4.7-1.2v15.2Z"/>
+    <path class="cls-2" d="M3137.7-4765.6h49.5v3.6h-49.5v-3.6Z"/>
+  </g>
+  <g class="cls-3">
+    <text class="cls-1" transform="translate(3132.3 -4748.2)"><tspan x="0" y="0">NEW YORK</tspan></text>
+  </g>
+  <g>
+    <path class="cls-2" d="M3070.5-4821.3v-.6h-46.8v.6l-12.8-3.2v61.4l12.8-4.1v1h46.9v-1l12.8,4.1v-61.4l-12.9,3.2ZM3017.4-4767l-4.7,1.5v-15l4.7-.6v14.1ZM3017.4-4783l-4.7.6v-22.7l4.7.6v21.5ZM3017.4-4806.3l-4.7-.6v-15.2l4.7,1.2v14.6ZM3023.5-4769l-4.2,1.3v-13.7l4.2-.6v13h0ZM3023.5-4783.8l-4.2.6v-21l4.2.6v19.8ZM3023.5-4805.5l-4.2-.6v-14.4l4.2,1.1v13.9ZM3068-4768.6h-41.8v-50.7h41.8v50.7ZM3075-4767.6l-4.2-1.3v-13l4.2.6v13.7h0ZM3075-4783.3l-4.2-.6v-19.7l4.2-.6v20.9h0ZM3075-4806.1l-4.2.6v-13.9l4.2-1.1v14.4ZM3081.5-4765.6l-4.7-1.5v-14.1l4.7.6v15ZM3081.5-4782.4l-4.7-.6v-21.5l4.7-.6v22.7ZM3081.5-4806.9l-4.7.6v-14.6l4.7-1.2v15.2Z"/>
+    <path class="cls-2" d="M3022.3-4765.6h49.5v3.6h-49.5v-3.6Z"/>
+  </g>
+  <g class="cls-3">
+    <text class="cls-1" transform="translate(3014.1 -4748.2)"><tspan x="0" y="0">SINGAPORE</tspan></text>
+  </g>
+  <g>
+    <path class="cls-2" d="M2955.1-4821.3v-.6h-46.8v.6l-12.8-3.2v61.4l12.8-4.1v1h46.9v-1l12.8,4.1v-61.4l-12.9,3.2ZM2902-4767l-4.7,1.5v-15l4.7-.6v14.1ZM2902-4783l-4.7.6v-22.7l4.7.6v21.5ZM2902-4806.3l-4.7-.6v-15.2l4.7,1.2v14.6ZM2908.1-4769l-4.2,1.3v-13.7l4.2-.6v13h0ZM2908.1-4783.8l-4.2.6v-21l4.2.6v19.8ZM2908.1-4805.5l-4.2-.6v-14.4l4.2,1.1v13.9ZM2952.6-4768.6h-41.8v-50.7h41.8v50.7ZM2959.6-4767.6l-4.2-1.3v-13l4.2.6v13.7h0ZM2959.6-4783.3l-4.2-.6v-19.7l4.2-.6v20.9h0ZM2959.6-4806.1l-4.2.6v-13.9l4.2-1.1v14.4ZM2966.1-4765.6l-4.7-1.5v-14.1l4.7.6v15ZM2966.1-4782.4l-4.7-.6v-21.5l4.7-.6v22.7ZM2966.1-4806.9l-4.7.6v-14.6l4.7-1.2v15.2Z"/>
+    <path class="cls-2" d="M2906.9-4765.6h49.5v3.6h-49.5v-3.6Z"/>
+  </g>
+  <g class="cls-3">
+    <text class="cls-1" transform="translate(2907.3 -4748.2)"><tspan x="0" y="0">BOMBAY</tspan></text>
+  </g>
+  <use class="cls-3" transform="translate(3108.1 -4660.8) scale(0)" xlink:href="#image-3"/>
+  <image class="cls-3" width="692" height="511" transform="translate(2992.3 -4660.3) scale(.2)" xlink:href="window2-3.png"/>
+  <image class="cls-3" width="694" height="511" transform="translate(2876.7 -4660.2) scale(.2)" xlink:href="window2-4.png"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(51.7 -3904.9) scale(.1)" xlink:href="../../../Downloads/IMG_9519.jpg"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(2047.6 -4014.4) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_7303.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(2426.9 -4009.6) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_6199.JPG"/>
+  <use id="image" class="cls-3" transform="translate(2782.3 -3946.2) rotate(90) scale(0)" xlink:href="#image-4"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(3180.1 -3974.9) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_7171.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(5811.7 -3938.1) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_7203.JPG"/>
+  <image class="cls-3" width="3024" height="4032" transform="translate(3180.1 -3966.2) scale(.1)" xlink:href="../../../Downloads/IMG_9658.jpg"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(4042.5 -3977.9) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_7288.JPG"/>
+  <use id="image-2" data-name="image" class="cls-3" transform="translate(4445.6 -3971.2) rotate(90) scale(0)" xlink:href="#image-4"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(5161.7 -4297.7) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_6318.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(5492 -3952.1) rotate(90) scale(.1)" xlink:href="window2-5.png"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(3516.6 -1475.9) rotate(-180) scale(.2)" xlink:href="../../../Downloads/IMG_1465.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(393.5 -2005.1) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_9630.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(5773.9 -2135.5) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_1276.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(4903.9 -1957.4) rotate(90) scale(.1)" xlink:href="window2-7.png"/>
+  <image class="cls-3" width="3024" height="2270" transform="translate(3779 -1921.5) scale(.2)" xlink:href="window2-8.png"/>
+  <image class="cls-3" width="3022" height="4035" transform="translate(3415.3 -1898.5) scale(0)" xlink:href="window2-9.png"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(2977.6 -2013.5) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_3970.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(801.7 -1958.6) rotate(90) scale(.1)" xlink:href="window2-10.png"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(2099.4 -1843.5) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_9577.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(1110.7 -1861.9) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_9538.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(1630.5 -1976.7) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_5253.JPG"/>
+  <image class="cls-3" width="3520" height="1986" transform="translate(1780.8 -1843.5) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_9564.JPG"/>
+  <image class="cls-3" width="4032" height="3024" transform="translate(2487 -1909) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_3884.JPG"/>
+  <image width="4032" height="3024" transform="translate(444.2 -126.1) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_9596.JPG"/>
+  <image width="4032" height="3024" transform="translate(788.7 -49.7) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_3683.JPG"/>
+  <image width="4032" height="3024" transform="translate(1151.6 -75.1) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_1710.JPG"/>
+  <image width="4032" height="3024" transform="translate(1445.3 -45.5) rotate(90) scale(.1)" xlink:href="window2-1.png"/>
+  <use transform="translate(1774.2 -39.2) rotate(90) scale(.1)" xlink:href="#image-3"/>
+  <image width="4032" height="3024" transform="translate(2146.3 -96.7) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_1993.JPG"/>
+  <image width="3520" height="1986" transform="translate(2383 -75.1) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_2141.JPG"/>
+  <image width="4032" height="3024" transform="translate(2712.2 -59.7) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_3885.JPG"/>
+  <image width="4032" height="3024" transform="translate(2993.5 -7.5) rotate(90) scale(0)" xlink:href="../../../Downloads/IMG_7073.JPG"/>
+  <image width="4032" height="3024" transform="translate(5760 -83.6) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_8223.JPG"/>
+  <image width="4032" height="3024" transform="translate(3409.3 -117.4) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_8490.JPG"/>
+  <image width="4032" height="3024" transform="translate(3793.2 -76) rotate(90) scale(.1)" xlink:href="../../../Downloads/IMG_0212.JPG"/>
+  <image width="4032" height="3024" transform="translate(4311.2 -137.6) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_5419.JPG"/>
+  <image width="4032" height="3024" transform="translate(4975.2 -231.3) rotate(90) scale(.2)" xlink:href="../../../Downloads/IMG_6162.JPG"/>
+</svg>

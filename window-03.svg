@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 135">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 11px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #000;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="M78.35,31.9v-.6H31.55v.61l-12.8-3.2v61.4l12.8-4.1v1h46.9v-1l12.8,4.1V28.7l-12.9,3.2ZM25.25,86.2l-4.7,1.5v-15l4.7-.6v14.1ZM25.25,70.2l-4.7.6v-22.7l4.7.6v21.5ZM25.25,46.9l-4.7-.6v-15.19l4.7,1.2v14.6ZM31.35,84.2l-4.2,1.3v-13.7l4.2-.6v13ZM31.35,69.4l-4.2.6v-21l4.2.6v19.8ZM31.35,47.7l-4.2-.6v-14.4l4.2,1.1v13.9ZM75.85,84.6h-41.8v-50.7h41.8v50.7ZM82.85,85.6l-4.2-1.3v-13l4.2.6v13.7ZM82.85,69.9l-4.2-.6v-19.69l4.2-.6v20.9ZM82.85,47.1l-4.2.6v-13.9l4.2-1.1v14.4ZM89.35,87.6l-4.7-1.5v-14.1l4.7.6v15ZM89.35,70.8l-4.7-.6v-21.5l4.7-.6v22.7ZM89.35,46.3l-4.7.6v-14.6l4.7-1.2v15.2Z"/>
+    <path class="cls-2" d="M30.15,87.6h49.5v3.6H30.15v-3.6Z"/>
+  </g>
+  <text class="cls-1" transform="translate(24.85 104.95)"><tspan x="0" y="0">NEW</tspan><tspan class="cls-3" x="25.66" y="0"> </tspan><tspan x="28.53" y="0">YORK</tspan></text>
+</svg>
